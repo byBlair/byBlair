@@ -48,21 +48,3 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<!-- GitHub Stats Card -->
-
-<!-- 경험 -->
-## 🏃 Experiences
-<ul>
-  <li>2024.12 ~ <strong>LG CNS AM Inspire Camp</strong></li>
-  <li>2023.04 ~ 2023.08 <strong>메가스터디 IT 아카데미 수료</strong></li>
-  <li>2021.04 ~ 2021.8 <strong>자바 웹&앱 프로그래밍 교육 수료</strong></li>
-</ul>
-
-<!-- 자격증 -->
-## 📜 Certificates
-<ul>
-  <li>2025.03. <strong>ADSP</strong></li>
-  <li>2024.07. <strong>정보처리기사 필기</strong></li>
-  <li>2025.03. <strong>토익스피킹(English) IH 150 - ETS</strong></li>
-  <li>2025.03 <strong>Opic 중국어 IH</strong></li>
-</ul>
